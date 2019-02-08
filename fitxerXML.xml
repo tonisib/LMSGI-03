@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<habitants data="1 de gener de 2019">
+	<municipi>
+		<nom>Alaior</nom>
+		<nombreHabitants>9012</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Alaró</nom>
+		<nombreHabitants>5494</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Alcúdia</nom>
+		<nombreHabitants>19793</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Algaida</nom>
+		<nombreHabitants>5529</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Andratx</nom>
+		<nombreHabitants>11004</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Ariany</nom>
+		<nombreHabitants>860</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Artà</nom>
+		<nombreHabitants>7671</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Banyalbufar</nom>
+		<nombreHabitants>503</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Binissalem</nom>
+		<nombreHabitants>8316</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Búger</nom>
+		<nombreHabitants>1054</nombreHabitants>
+	</municipi>
+	<municipi>
+		<nom>Bunyola </nom>
+		<nombreHabitants>6714</nombreHabitants>
+	</municipi>
+</habitants>
